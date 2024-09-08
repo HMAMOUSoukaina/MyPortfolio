@@ -1,4 +1,5 @@
 # Personal Portfolio Website 
+![portfolio_pc](https://github.com/user-attachments/assets/acac98de-002c-4c77-92d3-8b04e6717a7a)
 
 Welcome to my portfolio! This project showcases my web development skills and various projects.
 
@@ -16,7 +17,7 @@ This README provides a quick guide to my portfolio project built with ReactJS an
 
 ## Online demo 
 
-You can view the online version of this portfolio at. Check it out to see the project in action and discover its features!
+You can view the online version of this portfolio at [demo](https://hmamousoukaina.github.io/MyPortfolio/) Check it out to see the project in action and discover its features!
 
 ## Installation
 To set up this project on your local machine, follow these steps:
