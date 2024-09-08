@@ -33,9 +33,14 @@ function ContactForm() {
 
     emailjs
       //replace here with your IDs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", form.current, {
-        publicKey: "YOUR_PUBLIC_KEY",
-      })
+      .sendForm(
+        process.env.REACT_APP_EMAILJS_SERVICE_ID,
+        process.env.REACT_APP_EMAILJS_TEMPLATE_ID,
+        form.current,
+        {
+          publicKey: process.env.REACT_APP_EMAILJS_PUBLIC_KEY,
+        }
+      )
 
       .then(
         () => {
@@ -75,7 +80,7 @@ function ContactForm() {
           type="text"
           name="from_name"
           placeholder="Full name"
-          value={formValues.name}
+          value={formValues.from_name}
           onChange={handleChange}
           className={inputContact}
         />
@@ -83,7 +88,7 @@ function ContactForm() {
           type="email"
           name="from_email"
           placeholder="Email"
-          value={formValues.email}
+          value={formValues.from_email}
           onChange={handleChange}
           className={inputContact}
         />
