@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e92028e5.css",
+    "main.js": "/static/js/main.6ca5b67f.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/stayAwhile.png": "/static/media/stayAwhile.b6161de32985e25dadb1.png",
+    "static/media/doctori.png": "/static/media/doctori.b9d0080644558e0778d4.png",
+    "static/media/javafx1.png": "/static/media/javafx1.614df48373e551663f7e.png",
+    "static/media/chu.jpg": "/static/media/chu.39579252de544e3d3b7e.jpg",
+    "static/media/php.png": "/static/media/php.a3531e6ef56251d96da5.png",
+    "static/media/react.png": "/static/media/react.c803360a19d3bb50b7ea.png",
+    "static/media/photo.jpeg": "/static/media/photo.75e74ceb545310b39df5.jpeg",
+    "static/media/tailwind.png": "/static/media/tailwind.a506e7d70a0a234775e2.png",
+    "static/media/java.png": "/static/media/java.15ceec9e005a14dcb454.png",
+    "static/media/symfony.png": "/static/media/symfony.b7c8be5c777c4f5855c0.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.77dca6aa116909623d76.png",
+    "static/media/scrum.png": "/static/media/scrum.8b753be5f9d72c167ff1.png",
+    "static/media/git.png": "/static/media/git.9e59449e0248d76605bd.png",
+    "static/media/github.png": "/static/media/github.ec5de65263dd98576dc9.png",
+    "static/media/bookShop1.jpeg": "/static/media/bookShop1.7d780213b848cebcccfe.jpeg",
+    "static/media/logo_soukaina.png": "/static/media/logo_soukaina.a6207abcd948ffd59707.png",
+    "static/media/xml.png": "/static/media/xml.e781fd965da8e3a3a9c2.png",
+    "static/media/css.png": "/static/media/css.46a9df2035e2d9159e73.png",
+    "static/media/springBoot.png": "/static/media/springBoot.dae5194ed2c3022f354b.png",
+    "static/media/js.png": "/static/media/js.8f667974821a87747154.png",
+    "static/media/html.png": "/static/media/html.eb6451ed69f3f4128870.png",
+    "static/media/android.png": "/static/media/android.e59dfe352a596d4442be.png",
+    "static/media/docker.png": "/static/media/docker.c9585bf457a469f07051.png",
+    "static/media/mySQL.png": "/static/media/mySQL.e6f5ff9dd5cd907b6cb4.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.e92028e5.css.map": "/static/css/main.e92028e5.css.map",
+    "main.6ca5b67f.js.map": "/static/js/main.6ca5b67f.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e92028e5.css",
+    "static/js/main.6ca5b67f.js"
+  ]
+}
